@@ -1,0 +1,35 @@
+Admin-
+	Manage pages
+
+Users_App-
+	
+	ward manager
+	booth members
+
+	needs:
+		home page
+		signup page
+		login page
+		ward manager page-
+			Add:
+				profile page (C,U,R,D)
+				election setter page(C,U,R,D)- (Active,Deative) 
+				booth members page(C,U,R,D)
+														//additional-
+															//message send and receve page
+		booth member page-
+			Add:
+				Voters data page
+														//additional-
+															//message send and receve page
+
+		Voted data page for (voted citizen)-
+				voted status page
+
+Databases-
+	
+	auth_login db
+	ward_manager db
+	election_setter db
+	booth_memb db
+	voter_data dbs
